@@ -1,0 +1,2 @@
+# documentation
+CoinEmbed API Documentation
